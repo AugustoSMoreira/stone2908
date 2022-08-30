@@ -1,0 +1,30 @@
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\bin\Debug\net6.0\CSharp.exe
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\bin\Debug\net6.0\CSharp.deps.json
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\bin\Debug\net6.0\CSharp.dll
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\bin\Debug\net6.0\CSharp.pdb
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\CSharp.dll
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\refint\CSharp.dll
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\CSharp.pdb
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+D:\CURSOS -DEV\CURSOS EM VIDEO\CFB\CSharp\obj\Debug\net6.0\ref\CSharp.dll
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\bin\Debug\net6.0\CSharp.exe
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\bin\Debug\net6.0\CSharp.deps.json
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\bin\Debug\net6.0\CSharp.runtimeconfig.json
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\bin\Debug\net6.0\CSharp.dll
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\bin\Debug\net6.0\CSharp.pdb
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\CSharp.dll
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\refint\CSharp.dll
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\CSharp.pdb
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+D:\CURSOS -DEV\CURSOS EM VIDEO\STONE GAMA\Atividades\Aulas\Stone2908\obj\Debug\net6.0\ref\CSharp.dll
